@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cordova-root" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+	<name>Google Tag Manager Json move to container folder</name>
+	<license>venky</license>
+	<engines>
+		<engine name="cordova" version=">=3.2.0" />
+	</engines>
+	<hook type="after_prepare" src="after_prepare.js" />
+</plugin>

@@ -1,0 +1,59 @@
+{
+  "_from": "git+https://github.com/edvenkat/cordova-root.git",
+  "_id": "cordova-root@1.0.0",
+  "_inBundle": false,
+  "_location": "/cordova-root",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/edvenkat/cordova-root",
+    "rawSpec": "https://github.com/edvenkat/cordova-root",
+    "saveSpec": "git+https://github.com/edvenkat/cordova-root.git",
+    "fetchSpec": "https://github.com/edvenkat/cordova-root.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/edvenkat/cordova-root.git#e07cd6a1cab78488065af7bdcaf73aa9be35f017",
+  "_spec": "https://github.com/edvenkat/cordova-root",
+  "_where": "C:\\Users\\Nature\\Desktop\\phonegap\\Sample",
+  "author": {
+    "name": "xxx yyy"
+  },
+  "bugs": {
+    "url": "https://github.com/arnesson/cordova-plugin-firebase/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-root",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Cordova plugin for Google Firebase",
+  "homepage": "https://github.com/arnesson/cordova-plugin-firebase#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-browser",
+    "firebase",
+    "push",
+    "notifications",
+    "phone auth"
+  ],
+  "license": "MIT",
+  "name": "cordova-root",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnesson/cordova-plugin-firebase.git"
+  },
+  "scripts": {},
+  "version": "1.0.0"
+}
